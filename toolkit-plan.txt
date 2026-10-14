@@ -1,0 +1,12 @@
+Project Name: Personal Mini-Toolkit
+Description: A menu-driven Python program featuring three distinct utility tools.
+
+Tools Included:
+1. Todo List Manager (Uses a list that changes dynamically, allows adding and viewing tasks)
+2. Even Number Counter (Uses a loop and an if condition with the % operator to count even numbers in a given range)
+3. Tip Calculator (Uses conditionals to calculate tips based on service quality)
+
+Menu Flow:
+- Display options 1 to 4 (1: Todo List, 2: Even Number Counter, 3: Tip Calculator, 4: Quit)
+- Loop continuously until the user selects 4
+- Handle invalid choices gracefully without crashing
